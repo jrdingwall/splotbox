@@ -24,6 +24,7 @@ This is an improvement and enhancement of the first generation [TRU Sounder SPLO
 ### See It In Action
 
 * [SPLOTbox](http://splot.ca/box/) - the development and very first site, stuff can and will break
+* [GEOL 109 | The Earth and Life Through Time | Student Curated Geology Video Collection](http://sites.usask.ca/geol109/) - This video curation project was created by Karla Panchuk at the University of Saskatchewan. Project overview and rationale are included on the site. 
 
 And if you make a SPLOTbox site, please please pretty *please* fork this repo to edit this Readme with a link to your new site.
 
