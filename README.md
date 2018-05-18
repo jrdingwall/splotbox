@@ -25,6 +25,7 @@ This is an improvement and enhancement of the first generation [TRU Sounder SPLO
 
 * [OWLTECH Perspectives](http://perspectives.owlteh.org/) Open Web For Learning & Teaching Expertise Hub -- a series of videos contributed by educators and learners who are actively engaged in using the Open Web within their practice.
 * [SPLOTbox](http://splot.ca/box/) - the development and very first site, stuff can and will break
+* [The Earth and Life Through Time - Student Curated Video Project] (http://sites.usask.ca/geol109/) Students taking the course assemble a collection of videos and complementary resources for historical geology students by preparing materials.
 
 And if you make a SPLOTbox site, please please pretty *please* fork this repo to edit this Readme with a link to your new site.
 
